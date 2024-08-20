@@ -3,6 +3,4 @@ pandas
 matplotlib
 numpy
 pickle
-sklearn
 scikit-learn
-python
